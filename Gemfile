@@ -68,5 +68,5 @@ gem 'byebug'
 gem 'page-object'
 gem 'colorize'
 gem 'rspec'
-gem 'parallel_cucumber'
+
 
